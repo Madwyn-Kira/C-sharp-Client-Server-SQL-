@@ -1,0 +1,7 @@
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\bin\Debug\Vitakor_Client.exe.config
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\bin\Debug\Vitakor_Client.exe
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\bin\Debug\Vitakor_Client.pdb
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\obj\Debug\Vitakor_Client.csprojAssemblyReference.cache
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\obj\Debug\Vitakor_Client.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\obj\Debug\Vitakor_Client.exe
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Client\Vitakor_Client\obj\Debug\Vitakor_Client.pdb

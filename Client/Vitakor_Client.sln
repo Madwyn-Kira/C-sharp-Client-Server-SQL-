@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitakor_Client", "Vitakor_Client\Vitakor_Client.csproj", "{AAC08413-7719-491E-A9CC-2FCBEC18F3B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC08413-7719-491E-A9CC-2FCBEC18F3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC08413-7719-491E-A9CC-2FCBEC18F3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC08413-7719-491E-A9CC-2FCBEC18F3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC08413-7719-491E-A9CC-2FCBEC18F3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DB3DDC-5682-455B-830A-1C73A7A2FEC9}
+	EndGlobalSection
+EndGlobal

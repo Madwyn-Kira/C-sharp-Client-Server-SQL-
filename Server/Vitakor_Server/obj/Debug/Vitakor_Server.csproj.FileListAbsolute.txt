@@ -1,0 +1,9 @@
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\bin\Debug\Vitakor_Server.exe.config
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\bin\Debug\Vitakor_Server.exe
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\bin\Debug\Vitakor_Server.pdb
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\obj\Debug\Vitakor_Server.csprojAssemblyReference.cache
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\obj\Debug\Vitakor_Server.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\obj\Debug\Vitakor_Server.exe
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\obj\Debug\Vitakor_Server.pdb
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\bin\Debug\VeterenarDB.mdf
+C:\Users\madwyn\Desktop\Vitakor_APP\Vitakor_Server\Vitakor_Server\bin\Debug\VeterenarDB_log.ldf

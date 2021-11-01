@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitakor_Server", "Vitakor_Server\Vitakor_Server.csproj", "{14A6707A-BC29-4086-8677-D44EB69EFD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A6707A-BC29-4086-8677-D44EB69EFD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A6707A-BC29-4086-8677-D44EB69EFD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A6707A-BC29-4086-8677-D44EB69EFD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A6707A-BC29-4086-8677-D44EB69EFD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3384620C-77E2-49D1-82DB-BC6BB2B40784}
+	EndGlobalSection
+EndGlobal
